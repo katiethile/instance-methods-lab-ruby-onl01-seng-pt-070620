@@ -9,5 +9,4 @@ end
 end 
 
 fido = Dog.new
-fido.sit #> "Woof!"
 fido.sit
